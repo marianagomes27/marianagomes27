@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi, I'm Mariana Gomes 👋
+
+Biomedical Engineer @ UMinho
+
+[URL/Linkedin](https://www.linkedin.com/in/mariana-gomes98/)
+
 
 <!--
 **marianagomes27/marianagomes27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
