@@ -2,7 +2,7 @@
 
 Biomedical Engineer @ UMinho
 
-[URL/Linkedin](https://www.linkedin.com/in/mariana-gomes98/)
+[Linkedin](https://www.linkedin.com/in/mariana-gomes98/)
 
 
 <!--
