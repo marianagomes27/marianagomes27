@@ -1,6 +1,6 @@
 ### Hi, I'm Mariana Gomes 👋
 
-Biomedical Engineer @ UMinho
+Data Engineering Intern @ Accenture
 
 [Linkedin](https://www.linkedin.com/in/mariana-gomes98/)
 
