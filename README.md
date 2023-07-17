@@ -1,6 +1,6 @@
 ### Hi, I'm Mariana Gomes 👋
 
-Data Engineering Intern @ Accenture
+Junior Data Scientist
 
 [Linkedin](https://www.linkedin.com/in/mariana-gomes98/)
 
