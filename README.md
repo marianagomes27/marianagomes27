@@ -1,6 +1,6 @@
 ### Hi, I'm Mariana Gomes 👋
 
-Junior Data Scientist
+Software Engineering Analyst @ Accenture
 
 [Linkedin](https://www.linkedin.com/in/mariana-gomes98/)
 
