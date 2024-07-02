@@ -1,6 +1,6 @@
 ### Hi, I'm Mariana Gomes 👋
 
-Software Engineering Analyst @ Accenture
+Data Scientist @ Accenture
 
 [Linkedin](https://www.linkedin.com/in/mariana-gomes98/)
 
